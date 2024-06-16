@@ -3,17 +3,17 @@
 Steps to run the game on your system:
 
 Step1:
- make sure you have python installed in you system.
+ make sure you have python installed in your system.
 
 Step2:
 
- make sure to downlaod nltk and pygame, on your system:
+ make sure to downlaod nltk and pygame, in your system:
  this is for nltk:
  ![image](https://github.com/Stellin-15/MTC_TECH_ROUND1_TASK1/assets/123811154/42612e25-a2b2-452f-bbd3-2aa788054bc6)
 this is for pygame:
 ![image](https://github.com/Stellin-15/MTC_TECH_ROUND1_TASK1/assets/123811154/d27df611-7f64-43a8-ae6e-82693193b6e1)
 
-for me this showing conditions satisfied because I have already installed it, all but for you the window might look different.
+for me it shows conditions satisfied because I have already installed it, but for you the window might look different.
 
 Step 3:
 
